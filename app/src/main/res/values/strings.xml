@@ -3,4 +3,10 @@
     <string name="label_business_card">Cartao de visita</string>
     <string name="label_descripition_new_card">Novo Cartão</string>
     <string name="label_nome">Nome</string>
+    <string name="label_telefone1">Telefone</string>
+    <string name="label_email">Email</string>
+    <string name="label_Empresa">Empresa</string>
+    <string name="label_cor">Cor</string>
+    <string name="label_confirmar">Confirmar</string>
+
 </resources>
